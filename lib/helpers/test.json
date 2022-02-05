@@ -1,0 +1,111 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "حي",
+          "short_name": "حي",
+          "types": [
+            "establishment",
+            "point_of_interest"
+          ]
+        },
+        {
+          "long_name": "2376",
+          "short_name": "2376",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "ركانه المطلبي",
+          "short_name": "ركانه المطلبي",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "بئر عثمان",
+          "short_name": "بئر عثمان",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "المدينة المنورة",
+          "short_name": "المدينة المنورة",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "المدينة المنورة",
+          "short_name": "المدينة المنورة",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "منطقة المدينة",
+          "short_name": "منطقة المدينة",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "السعودية",
+          "short_name": "SA",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "42331",
+          "short_name": "42331",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "7211",
+          "short_name": "7211",
+          "types": [
+            "postal_code_suffix"
+          ]
+        }
+      ],
+      "formatted_address": "حي, 2376 ركانه المطلبي، بئر عثمان، المدينة المنورة 42331 7211، السعودية",
+      "geometry": {
+        "location": {
+          "lat": 24.4917139,
+          "lng": 39.5794909
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 24.4930628802915,
+            "lng": 39.5808398802915
+          },
+          "southwest": {
+            "lat": 24.4903649197085,
+            "lng": 39.5781419197085
+          }
+        }
+      },
+      "place_id": "ChIJH6WGAdC-vRURFl1WjV8fIIk",
+      "plus_code": {
+        "compound_code": "FHRH+MQ المدينة المنورة السعودية",
+        "global_code": "7GPXFHRH+MQ"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  ]
+}
